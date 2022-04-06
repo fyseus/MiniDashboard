@@ -13,3 +13,7 @@ tomcat 网页部署在 www.localhost.com:8080/home 上，同时采用热部署�
 - servlet （逻辑控制）
 
 - tomcat （容器）
+
+- mysql
+
+mysql数据库采用连接池，以支持并发访问和资源控制
